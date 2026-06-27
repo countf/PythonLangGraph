@@ -1,7 +1,5 @@
 # LangGraph 小米MiMo大模型智能体全套学习项目
 
-# \[README\.md\]\(README\.md\) \- LangGraph 小米 MiMo 大模型智能体全套学习项目
-
 ## 项目简介
 
 本仓库是一套**从零到完整企业级 AI 智能体**的 LangGraph 学习代码，基于小米 MiMo（mimo\-v2\.5\-pro）大模型开发，兼容所有 OpenAI 格式第三方 LLM 接口。
